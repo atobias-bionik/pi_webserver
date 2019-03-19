@@ -1,0 +1,21 @@
+/*style.css*/
+html {
+  font-family: arial;
+}
+
+h2 {
+  color: #00aff0;
+}
+
+.button {
+    display: inline-block;
+    text-decoration: none;
+    padding: 6px 15px 6px 15px;
+    background-color: #00aff0;
+    color: #FFFFFF;
+    border-radius: 20px;
+}
+
+.button:hover {
+  background-color: #0094ef;
+}
